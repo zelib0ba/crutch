@@ -1,4 +1,4 @@
-# <!-- Alexey Surin | https://surin.ru | a@surin.ru | t.me/zelib0ba | +7(903) 153-51-56 -->
+# Alexey Surin | https://surin.ru | a@surin.ru | t.me/zelib0ba | +7(903) 153-51-56
 # удаление пустых папок на диске
 import os
 def del_empty_dirs(path):
