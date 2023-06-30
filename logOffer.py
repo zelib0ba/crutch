@@ -1,5 +1,7 @@
 # Alexey Surin | https://surin.ru | a@surin.ru | t.me/zelib0ba | +7(903) 153-51-56
+# завершение неактивных сеансов на терминальном сервере Windows.
 import os 
+
 os.system ('query session > session.txt')
 
 with open ('./session.txt',encoding='866') as f:
