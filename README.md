@@ -5,6 +5,6 @@ _[logOffer.py](https://github.com/zelib0ba/crutch/blob/main/logOffer.py)_  - з�
 
 _[emptdir.py](https://github.com/zelib0ba/crutch/blob/main/emptdir.py)_  - удаление пустых папок на диске
 
-_[rdp_ban_list.ip](https://github.com/zelib0ba/crutch/blob/main/rdp_ban_list.ip)_ сайт [https://ipthreat.ru/]  - адреса с которых брутфорсят RDP
+_[rdp_ban_list.ip](https://github.com/zelib0ba/crutch/blob/main/rdp_ban_list.ip)_ [https://ipthreat.ru/](сайт тут)  - адреса с которых брутфорсят RDP
 
 
