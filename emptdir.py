@@ -11,4 +11,5 @@ def del_empty_dirs(path):
                 os.rmdir(a)
                 print (f'папка {a} удалена')
 
-del_empty_dirs("p:\\")
+del_empty_dirs(r'z:')
+
